@@ -1,6 +1,6 @@
 # SVT Gists
 
-[![REUSE status](https://api.reuse.software/badge/github.com/svt/parabol-retro-summary-parser)](https://api.reuse.software/info/github.com/svt/parabol-retro-summary-parser)
+[![REUSE status](https://api.reuse.software/badge/github.com/svt/parabol-retro-summary-parser)](https://api.reuse.software/info/github.com/svt/svt-gists)
 
 This a collection of various (maybe:) useful small scripts and code snippets.
 It came to exist when when we realized we wanted to share small utilities and scripts in various languages in the GitHub Gists-style.
